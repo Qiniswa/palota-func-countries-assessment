@@ -70,7 +70,7 @@ The country object that your API should return is different from the original pa
     },
     "demonym": "South African",
     "nativeName": "South Africa",
-    "numericCode": "200",
+    "numericCode": "710",
     "flag": "https://flagcdn.com/za.svg"
 }
 ```
@@ -94,7 +94,7 @@ The country object that your API should return is different from the original pa
         },
         "demonym": "South African",
         "nativeName": "South Africa",
-        "numericCode": "200",
+        "numericCode": "710",
         "flag": "https://flagcdn.com/za.svg"
     }
 ]
